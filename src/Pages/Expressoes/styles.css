@@ -1,0 +1,29 @@
+.expressoes {
+    padding: 30px 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.expressao {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin: 0 10px 0 10px;
+    
+    border-radius: 10px;
+    background-color: #314568;
+}
+
+.expressao a {
+    padding: 20px 40px;
+    text-decoration: none;
+    color: #fff;
+}
+
+
+.operacao {
+    font-size: 30px;
+    font-weight: bold;
+}
